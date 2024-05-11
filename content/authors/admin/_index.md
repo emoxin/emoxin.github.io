@@ -120,7 +120,7 @@ social:
 highlight_name: true
 ---
 <br>
-<div style="text-align: justify">I obtained my Ph.D. in Psychology from Tsinghua University. l am interested in affectiveneuroscience, affective disorders, and how to connect these two. Currently, l am undergoing postdoctoral training in Dr. Bylsma's lab, honing my skills in ambulatoryphysiological assessment to bridge the laboratory and real-life research findings.
+<div style="text-align: justify">I obtained my Ph.D. in Psychology from Tsinghua University. l am interested in affectiveneuroscience, affective disorders, and how to connect these two. I employ multiple neurophysiological meausres including EEG, fNIRS ECG, PPG, and EDA to study human emotions. Currently, l am undergoing postdoctoral training in Dr. Lauren M Bylsma's lab at the Department of Psychiatry in the University of Pittsburgh, with a focus on ambulatory physiological assessment with transdiagnostic populations.
 <br>
 I have two cockatiels, <em>Lady Bo and Mr. Hui</em>, who share one of my research interests: studying human emotions in real-life settings.
 </div>
