@@ -122,5 +122,5 @@ highlight_name: true
 <br>
 <div style="text-align: justify">I obtained my Ph.D. in Psychology from Tsinghua University. l am interested in affectiveneuroscience, affective disorders, and how to connect these two. Currently, l am undergoing postdoctoral training in Dr. Bylsma's lab, honing my skills in ambulatoryphysiological assessment to bridge the laboratory and real-life research findings.
 <br>
-I also have two cockatiels <em>(Lady Bo and Mr Hui)</em> who study human emotions in real-life settings.
+I have two cockatiels, <em>Lady Bo and Mr. Hui</em>, who share one of my research interests: studying human emotions in real-life settings.
 </div>
